@@ -1,0 +1,81 @@
+1 - Create a personal site, sugestion: Weebly
+
+service I want to offer
+
+Skills I need to learn
+
+
+Mission
+
+Vision
+
+
+3 - Built Social Media
+
+3.1 - Twitter, do not use hashtags
+3.2 - Facebook
+3.3 - Instagram
+3.4 - LinkedIn, use hashtags
+3.5 - Youtube, Follow:
+3.6 - Reddit
+  R/compsci
+  R/machinelearning
+  R/learningmachinelearning
+  R/cscareerquestions
+
+Github is the new resume
+
+##############################################################
+The Machine Learning Pipeline
+
+Prepare Data => Build & Train Models => Deploy & Predict
+
+
+WebStorm
+HTLM, CSS, JS, jQuery, Angular...
+
+PyCharm
+Web Framework: Flask
+
+Jupyter
+Python: TensorFlow, Keras, Scikit-learn, pandas, NumPy, SciPy, NLTK, Gensim
+
+
+
+
+##############################################################
+
+# Install Flask
+https://flask.palletsprojects.com/en/1.1.x/installation/
+
+# Quick Start
+https://flask.palletsprojects.com/en/1.1.x/quickstart/
+
+Keras, image classify
+
+##############################################################
+Study
+
+https://www.youtube.com/watch?v=FTr3n7uBIuE&t=906s
+
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+
+https://github.com/llSourcell/Convolutional_neural_network/blob/master/convolutional_network_tutorial.ipynb
+
+https://timdettmers.com/2015/03/26/convolution-deep-learning/
+
+
+https://beckernick.github.io/neural-network-scratch/
+
+
+http://cs231n.github.io/convolutional-networks/
+
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+##############################################################
+
+
+##############################################################
+
+
+##############################################################
