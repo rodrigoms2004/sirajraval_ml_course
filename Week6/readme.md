@@ -2,6 +2,35 @@
 
 Retail
 
+## Resources 
+
+[Flutter Tensorflow integration example](https://github.com/shaqian/flutter_tflite)
+
+[Flutter Firebase classifier integration example](https://github.com/firebase/mlkit-custom-image-classifier)
+
+[PyTorch to Kera](https://github.com/nerox8664/pytorch2keras)
+
+[ONNX - Open Neural Network Exchange Format](https://onnx.ai/)
+
+[Plant leaf disease detection](https://github.com/dwij28/Plant-Leaf-Disease-Detection)
+
+
+### More resources...
+
+[Full Flutter Plant Classifier Tutorial](https://heartbeat.fritz.ai/easily-build-image-classification-models-using-just-your-smartphone-walkthrough-guide-43bf211181b0)
+
+
+### Reading assignment
+
+* Read this blog post on generative modeling 
+[OpenAI - Generative Models](https://openai.com/blog/generative-models/)
+
+* Read Chapter 1 of this book on Generative modeling
+[Chapter 1. Generative Modeling](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/ch01.html)
+
+* Read this presentation
+[Deep Generative Models](https://www.cs.toronto.edu/~slwang/generative_model.pdf)
+
 
 ## About GANs (Generative Adversarial Networks)
 
@@ -14,14 +43,12 @@ Retail
 [Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.](https://github.com/huggingface/transformers)
 
 
-
 ## Datasets
 
 [From Google](https://ai.google/tools/datasets/)
 
 [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
-[OpenAI - Generative Models](https://openai.com/blog/generative-models/)
 
 ## About VAEs Variational Autoencoders
 
