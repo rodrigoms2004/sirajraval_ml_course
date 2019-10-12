@@ -40,3 +40,8 @@ A self-driving car simulator built with Unity http://udacity.com/self-driving-ca
 [Geometric Deep Learning Videos](https://sungsoo.github.io/2018/02/01/geometric-deep-learning.html)
 
 [Graph Convolutional Networks for Geometric Deep Learning](https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008)
+
+
+## Midterm
+
+[ML Signals](https://github.com/rodrigoms2004/FinanceMidTermSiraj2019)
