@@ -49,7 +49,13 @@ Retail
 
 [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
+[MNIST dataset](https://github.com/zalandoresearch/fashion-mnist)
+
+[GAN Fashion MNIST](https://github.com/R-Suresh/GAN_fashion_MNIST/blob/master/gan.py)
 
 ## About VAEs Variational Autoencoders
 
 [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+
+
+Fashion MINIST Basic GAN
