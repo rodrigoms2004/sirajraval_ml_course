@@ -29,7 +29,7 @@ Retail
 [Chapter 1. Generative Modeling](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/ch01.html)
 
 * Read this presentation
-[Deep Generative Models](https://www.cs.toronto.edu/~slwang/generative_model.pdf)
+[Deep Generative Models](https://github.com/rodrigoms2004/sirajraval_ml_course/blob/master/Week6/docs/generative_model.pdf)
 
 
 ## About GANs (Generative Adversarial Networks)
