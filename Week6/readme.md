@@ -42,6 +42,11 @@ Retail
 
 [Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.](https://github.com/huggingface/transformers)
 
+[COLAB TF-Hub generative image module](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf_hub_generative_image_module.ipynb#scrollTo=llXOtHZXlXNB)
+
+[AdVis: Exploring real-time Adversarial Attacks in the browser with Fast Gradient Sign Method](https://github.com/jaxball/advis.js)
+
+[AdVis](http://www.jlin.xyz/advis/)
 
 ## Datasets
 
